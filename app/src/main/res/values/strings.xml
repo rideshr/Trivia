@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question: 101  / 616</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="placeholder">Hey Everyone! This is where I am going to add the actual questions which is to be shown...</string>
+    <string name="text_formatted">Question: %d / %d</string>
+    <string name="correctAnswer">Correct!!</string>
+    <string name="incorrectAnswer">Incorrect!</string>
+    <string name="current_score">The Current Score: 0</string>
+</resources>
